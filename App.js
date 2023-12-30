@@ -94,7 +94,7 @@ const NewCard = () => {
       </View>
       <View style={styles.newCard}>
           <Text style={styles.newCardTitle}>VISA</Text>
-          <Text style={styles.newCardTitle}>7312 7834 7128 1293 3839</Text>
+          <Text style={styles.nokartu}>7312 7834 7128 1293 3839</Text>
           <Text style={styles.newCardTitle}>EXP 03/09              CVV 256</Text>
       </View>
     </ScrollView>
